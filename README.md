@@ -1,1 +1,2 @@
-# vehicle_track_system
+vehicle_track_system
+create database and run migration 
